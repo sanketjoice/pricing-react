@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pricing-react/static/css/main.030f7035.css",
+    "main.js": "/pricing-react/static/js/main.47ab20bc.js",
+    "index.html": "/pricing-react/index.html",
+    "main.030f7035.css.map": "/pricing-react/static/css/main.030f7035.css.map",
+    "main.47ab20bc.js.map": "/pricing-react/static/js/main.47ab20bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.030f7035.css",
+    "static/js/main.47ab20bc.js"
+  ]
+}
